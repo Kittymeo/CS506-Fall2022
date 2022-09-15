@@ -1,3 +1,7 @@
 def draw_mall():
-    print("mall not found")
+    print("This is the mall")
+    print("   ^   ")
+    print("<     >")
+    print("[     ]")
+    print("-------")
     return

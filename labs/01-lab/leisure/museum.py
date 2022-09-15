@@ -1,3 +1,9 @@
 def draw_museum():
-    print("museum not found")
+    print("This is the museum")
+    print("   $   ")
+    print("  $$$  ")
+    print(" $$$$$ ")
+    print("$$$$$$$")
+    print("l     l")
+    print("-------")
     return
